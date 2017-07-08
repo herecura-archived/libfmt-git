@@ -1,7 +1,7 @@
 # Maintainer: Xentec <xentec at aix0 dot eu>
 _name=fmt
 pkgname="lib$_name-git"
-pkgver=4.0.0.r6.g1a398b5
+pkgver=4.0.0.r7.g4af9421
 pkgrel=1
 pkgdesc="Small, safe and fast formatting library for C++"
 arch=('i686' 'x86_64')
